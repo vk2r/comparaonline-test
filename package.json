@@ -1,0 +1,28 @@
+{
+  "name": "comparaonline-test",
+  "version": "0.0.1",
+  "description": "Compara Online Interview Coding Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vk2r/comparaonline-test.git"
+  },
+  "keywords": [
+    "Compara",
+    "Online",
+    "ComparaOnline"
+  ],
+  "author": "Victor Mansilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vk2r/comparaonline-test/issues"
+  },
+  "homepage": "https://github.com/vk2r/comparaonline-test#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1"
+  }
+}
