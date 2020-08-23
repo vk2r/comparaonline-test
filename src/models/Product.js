@@ -6,4 +6,16 @@ class Product {
   }
 }
 
-module.exports = Product;
+const type = {
+  low: 'Low Coverage',
+  medium: 'Medium Coverage',
+  full: 'Full Coverage',
+  super: 'Super Sale',
+  special: 'Special Full Coverage',
+  mega: 'Mega Coverage'
+};
+
+module.exports = {
+  Product,
+  type
+};

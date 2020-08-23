@@ -1,5 +1,5 @@
-const Product = require('./Product');
-const CarInsurance = require('./CarInsurance');
+const { Product } = require('./Product');
+const { CarInsurance } = require('./CarInsurance');
 
 module.exports = {
   Product,
