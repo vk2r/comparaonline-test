@@ -39,12 +39,8 @@ npm run after-30-days
 👤 **Victor Mansilla**
 
 * Github: [@vk2r](https://github.com/vk2r)
-* LinkedIn: [@vk2rgo](https://linkedin.com/in/vk2rgo)
 
 ## 📝 License
 
 Copyright © 2020 [Victor Mansilla](https://github.com/vk2r).<br />
 This project is [MIT](https://github.com/vk2r/comparaonline-test/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
