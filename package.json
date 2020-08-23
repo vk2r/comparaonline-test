@@ -4,7 +4,8 @@
   "description": "Compara Online Interview Coding Test",
   "main": "index.js",
   "scripts": {
-    "test": "mocha specs/*.js"
+    "test": "mocha specs/complete.js",
+    "after-30-days": "mocha specs/after.js"
   },
   "repository": {
     "type": "git",
@@ -22,7 +23,7 @@
   },
   "homepage": "https://github.com/vk2r/comparaonline-test#readme",
   "devDependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^8.1.1"
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
   }
 }
